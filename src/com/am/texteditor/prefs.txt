@@ -1,0 +1,4 @@
+864, 557
+769.0, 406.0
+Courier New, 0, 36
+false, true
